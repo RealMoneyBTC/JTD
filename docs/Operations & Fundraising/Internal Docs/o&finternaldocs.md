@@ -1,5 +1,5 @@
 ---
 title: Operations & Funding Internal Docs
-layout: default
-nav_order: 1
+parent: Operations & Fundraising
+nav_order: 2
 ---
