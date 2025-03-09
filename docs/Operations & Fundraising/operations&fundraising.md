@@ -1,5 +1,5 @@
 ---
-title: Operations & Funding
+title: Operations & Fundraising
 layout: default
 nav_order: 1
 ---
